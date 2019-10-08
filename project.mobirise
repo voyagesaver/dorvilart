@@ -741,7 +741,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-9971-2000x1345.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -758,7 +758,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1156-1996x2532.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
