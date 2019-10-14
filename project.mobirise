@@ -992,7 +992,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Dance of Light <a href=\"index.html#form1-c\">Inquire</a>",
+                "caption": "Dance of Light 40\"X60\"&nbsp;<a href=\"index.html#form1-c\">Inquire</a>",
                 "active": false
               },
               {
@@ -1135,7 +1135,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Simplicity Dance <a href=\"index.html#form1-c\">Inquire</a>",
+                "caption": "Simplicity Dance 30\"X40\"&nbsp;<a href=\"index.html#form1-c\">Inquire</a>",
                 "active": false
               },
               {
@@ -1305,6 +1305,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "The Rich 30\"x40\" <a href=\"index.html#form1-c\">Inquire</a><br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/solo-with-instruments-40x60-709x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/solo-with-instruments-40x60-709x1080-709x1080.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Solo with Instruments 40\"X60\" <a href=\"index.html#form1-c\">Inquire</a>",
                 "active": false
               }
             ]
