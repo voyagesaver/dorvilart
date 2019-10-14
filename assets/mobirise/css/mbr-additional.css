@@ -2122,8 +2122,8 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rERyeEY3Ja {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rERyeEY3Ja .mbr-section-subtitle {
@@ -2695,7 +2695,7 @@ body {
 }
 .cid-rElwYkqiDM .nav-link:hover,
 .cid-rElwYkqiDM .dropdown-item:hover {
-  color: #c74740 !important;
+  color: #c1c1c1 !important;
 }
 .cid-rERvHAwq3U {
   background: #ea4f47;
