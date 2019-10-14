@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dorvilart",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -2029,7 +2029,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ea4f47\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Born on October 28, 1983 in Port - au-Prince, Haiti, Ted develops a certain passion for drawing at the age of 11 years old from doodling. The artist was introduced to the formal sketching techniques during his classical studies where he often draws his classmates who respect and admire his work. Ted possesses a great sense of humor, which often earned him minor punishments such as memorizing long poetry for jokingly interrupting a class with his drawings and the comments that follow. Later, he attended ENARTS (Ecole Nationale des Arts) where he received formal artistic training and graduated within 4 years. In 2004, he was classified among the winners of the international competition of painting for Haitians artists living in Haiti and abroad to</b></p><p><b>celebrate the National Bicentennial. He has also worked in Studio with artists such as: Richard Barbot and Edwige Casimir.</b></p><p><b><br></b></p><p><b>Today Ted Zamy Dorvil continues to work in a workshop at his home where he resides in Haiti with his wife and son. He uses acrylic paint, and his subjects are often universal abstract . His art is an invitation to an illuminate and inspiring journey, gifted with a boundless imagination. His painting style brings alive abstract shape to create magic in the eye of the beholder and nowadays his works is found in the homes of several collectors around the world. A spontaneous image that tends towards a modern abstract reality, He is seen as the genius of light and color in the West Indies. In 2014, he received the title of</b></p><p><b>Chevalier academician and Ambassador representing Haiti by world Art Academia which is an organization based in France, specialized in researching and promoting talented artist worldwide. Ted is available to work on commission . He also enjoys sculpting and admits that every piece created feels like a new mission accomplished where mankind rediscovers itself with its</b></p><p><b>virtues and universality.</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ea4f47\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Born on October 28, 1983 in Port - au-Prince, Haiti, Ted develops a certain passion for drawing at the age of 11 years old from doodling. The artist was introduced to the formal sketching techniques during his classical studies where he often draws his classmates who respect and admire his work. Ted possesses a great sense of humor, which often earned him minor punishments such as memorizing long poetry for jokingly interrupting a class with his drawings and the comments that follow. Later, he attended ENARTS (Ecole Nationale des Arts) where he received formal artistic training and graduated within 4 years. In 2004, he was classified among the winners of the international competition of painting for Haitians artists living in Haiti and abroad to</b></p><p><b>celebrate the National Bicentennial. He has also worked in Studio with artists such as: Richard Barbot and Edwige Casimir.</b></p><p><b><br></b></p><p><b>Today Ted Zamy Dorvil continues to work in a workshop at his home where he resides in Haiti with his wife and son. He uses acrylic paint, and his subjects are often universal abstract . His art is an invitation to an illuminate and inspiring journey, gifted with a boundless imagination. His painting style brings alive abstract shape to create magic in the eye of the beholder and nowadays his works is found in the homes of several collectors around the world. A spontaneous image that tends towards a modern abstract reality, He is seen as the genius of light and color in the West Indies. In 2014, he received the title of</b></p><p><b>Chevalier academician and Ambassador representing Haiti by world Art Academia which is an organization based in France, specialized in researching and promoting talented artist worldwide. Ted is available to work on commission . He also enjoys sculpting and admits that every piece created feels like a new mission accomplished where mankind rediscovers itself with its&nbsp;</b><b style=\"font-size: 1rem;\">virtues and universality.</b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rERvxgQn5V",
           "_anchor": "content1-k",
           "_protectedParams": [],
@@ -2056,52 +2056,16 @@
                 }
               }
             },
-            ".img-logo": {
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
               "img": {
                 "height": "6rem"
-              }
-            },
-            ".form-group, .input-group-btn": {
-              "padding": "0"
-            },
-            ".form-control": {
-              "font-size": ".75rem",
-              "text-align": "center",
-              "min-width": "150px"
-            },
-            ".input-group-btn .btn": {
-              "padding": ".75rem 1.5625rem !important",
-              "margin-left": ".625rem",
-              "text-transform": "none",
-              "color": "#fff",
-              "text-align": "center"
-            },
-            ".social-list": {
-              "padding-left": "0",
-              "margin-bottom": "0",
-              "list-style": "none",
-              "display": "flex",
-              "-webkit-flex-wrap": "wrap",
-              "flex-wrap": "wrap",
-              ".mbr-iconfont-social": {
-                "font-size": "1.3rem",
-                "color": "#fff"
-              },
-              ".soc-item": {
-                "margin": "0 .5rem"
-              },
-              "a": {
-                "margin": "0",
-                "opacity": ".5",
-                "-webkit-transition": ".2s linear",
-                "transition": ".2s linear",
-                "&:hover": {
-                  "opacity": "1"
-                }
-              },
-              "@media (max-width: 767px)": {
-                "-webkit-justify-content": "center",
-                "justify-content": "center"
               }
             },
             ".footer-lower": {
@@ -2115,30 +2079,45 @@
                 "margin": "1rem 0",
                 "border-color": "#fff",
                 "opacity": ".05"
-              }
-            },
-            ".form-group": {
-              "margin": "0"
-            },
-            "@media (max-width: 767px)": {
-              ".foot-logo": {
-                "text-align": "center !important"
               },
-              ".foot-title": {
-                "text-align": "center !important"
-              },
-              ".mbr-text": {
-                "text-align": "center !important"
-              },
-              ".form-group": {
-                "margin": "0"
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "-webkit-flex-wrap": "wrap",
+                "flex-wrap": "wrap",
+                "-webkit-justify-content": "flex-end",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
               }
             }
           },
-          "_name": "footer4",
-          "_customHTML": "<section class=\"footer4\" group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked=\"\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected=\"\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-md-3 col-sm-4\">\n                <div class=\"mb-3 img-logo\">\n                    <a href=\"https://mobirise.co/\">\n                        <img src=\"../_images/logo2.png\" alt=\"Mobirise\">\n                    </a>\n                </div>\n                <p class=\"mb-3 mbr-fonts-style foot-title\" mbr-theme-style=\"display-7\" data-app-selector=\".foot-logo\">\n                    MOBIRISE\n                </p>\n                <p class=\"mbr-text mbr-fonts-style mbr-links-column\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-links-column\">\n                    <a href=\"#\" class=\"text-white\">About Us</a>\n                    <br><a href=\"#\" class=\"text-white\">Services</a>\n                    <br><a href=\"#\" class=\"text-white\">Selected Work</a>\n                    <br><a href=\"#\" class=\"text-white\">Get In Touch</a>\n                </p>\n            </div>\n            <div class=\"col-md-4 col-sm-8\">\n                <p class=\"mb-4 foot-title mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".foot-title\">\n                    RECENT NEWS\n                </p>\n                <p class=\"mbr-text mbr-fonts-style foot-text\" mbr-theme-style=\"display-7\" data-app-selector=\".foot-text\">\n                    Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.\n                    <br>\n                    <br>Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.\n                </p>\n            </div>\n            <div class=\"col-md-4 offset-md-1 col-sm-12\">\n                <p class=\"mb-4 foot-title mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".foot-title\">\n                    SUBSCRIBE\n                </p>\n                <p class=\"mbr-text mbr-fonts-style form-text\" mbr-theme-style=\"display-7\" data-app-selector=\".form-text\">\n                    Get monthly updates and free resources.\n                </p>\n                <div mbr-form=\"\" class=\"media-container-column\">\n                    <!---Formbuilder Form--->\n                    <form action=\"\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                        <div class=\"row form-inline justify-content-center\">\n                            <div hidden=\"hidden\" data-form-alert=\"\" class=\"alert alert-success col-12\">Thanks for filling out the form!</div>\n                            <div hidden=\"hidden\" data-form-alert-danger=\"\" class=\"alert alert-danger col-12\">\n                                                    </div>\n                        </div>\n                        <div class=\"dragArea row form-inline justify-content-center\">\n                            <div class=\"col-auto  form-group \" data-for=\"email\">\n                                <input type=\"email\" name=\"email\" placeholder=\"Email\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control input-sm input-inverse my-2\">\n                            </div>\n                            <div class=\"col-auto  input-group-btn  m-2\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\">\n                                <a type=\"submit\" class=\"btn btn-primary m-0\">Subscribe</a>\n                            </div>\n                        </div>\n                    </form><!---Formbuilder Form--->\n                </div>\n                <p class=\"mb-4 mbr-fonts-style foot-title\" mbr-theme-style=\"display-7\" data-app-selector=\".foot-title\">\n                    CONNECT WITH US\n                </p>\n                <div class=\"social-list pl-0 mb-0\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-12 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2019 Mobirise - All Rights Reserved\n                    </p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
-          "_cid": "rERxsOYvKS",
-          "_anchor": "footer4-m",
+          "_name": "footer1",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked=\"\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked=\"\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background5.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"https://mobirise.co/\">\n                        <img src=\"@PROJECT_PATH@/assets/images/dorvilart-1-164x237.png\" alt=\"Mobirise\" title=\"\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\"></h5>\n                <p class=\"mbr-text\"></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Contacts\n                </h5>\n                <p class=\"mbr-text\">\n                    Email: support@mobirise.com\n                    <br>Phone: +509 32 01 3842\n<br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Links\n                </h5>\n                <p class=\"mbr-text\"><a href=\"index.html#gallery3-a\">See Paintings</a><br><a href=\"page1.html\">Read Artist Bio</a><br><a href=\"index.html#form1-c\">Inquire about Painting</a></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2019 - Designed by Athis Enterprises\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"http://www.instagram.com/dorvilart\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-p",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rERS4pZFDJ",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
