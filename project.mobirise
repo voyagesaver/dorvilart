@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dorvilart",
-    "currentPage": "bio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -738,7 +738,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-d\" data-toolbar=\"-mbrBtnMove\">SEE MORE PAINTINGS</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-d\" data-toolbar=\"-mbrBtnMove\">SEE MORE PAINTINGS</a>  ",
                 "overlayOpacity": "0.3"
               },
               {
